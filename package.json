@@ -6,6 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "homepage": "https://github.com/esychov/taobao",
+  "repository":  "git://github.com/esychov/taobao",
   "keywords": [
     "taobao",
     "api",
@@ -17,5 +19,8 @@
     "sortobject": "^4.13.0"
   },
   "author": "akick.fd@gmail.com",
-  "license": "ISC"
+  "license": "ISC",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
 }
