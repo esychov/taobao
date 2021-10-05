@@ -1,5 +1,5 @@
 {
-  "name": "esychov/taobao",
+  "name": "@esychov/taobao",
   "version": "1.0.0",
   "description": "taobao api package provided by taobao",
   "main": "index.js",
